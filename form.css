@@ -1,0 +1,59 @@
+.theull{
+    list-style: none;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 20px;
+
+}
+
+.theull a{
+    color: white;
+    padding: 10px;
+    width: 30px;
+    border: 1px solid black;
+    background: black;
+    border-radius: 20px;
+}
+
+body{
+   background-image: url(images/images7.jpg)
+}
+
+
+form{
+    
+    /* /* background: rgba(233, 10, 10, 0.3); */
+    /* width: 300px; */ 
+    padding: 50px 50px;
+    /* border-radius: 15px; */
+    width: 400px;
+    box-shadow: inset 0px 0px 20px white;
+    
+}
+input{
+    border: none;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: inset 0px 0px 20px white;
+    background: rgba(255, 255, 255, 0.171);
+    margin: 10px 0px;
+    width: 100%;
+    box-sizing: border-box;
+    color: white;
+    outline: none;
+}
+
+label{
+    color: white;
+    
+}
+button{
+    border: none;
+    padding: 20px;
+    /* width: 100%; */
+    background: rgba(255,255,255,0.3);
+    box-shadow: inset 0px 0px 20px white;
+    border-radius: 10px
+}

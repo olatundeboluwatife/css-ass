@@ -1,0 +1,124 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo img{
+    margin: 0px 100px;
+    width: 50px;
+
+}
+.theul{
+    list-style: none;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.theul li{
+    margin: 0px 2px;
+
+}
+
+.theul a{
+    text-decoration: none;
+    color: black;
+}
+
+.fircol{
+    background: purple;
+
+}
+
+.sec{
+    background: gold;
+    width: 250px;
+    margin: 0px 100px;
+    padding: 20px;
+}
+
+.left{
+    margin: 10px 100px;
+    border-left: 2px solid gold;
+    padding: 0px 0px 0px 10px;
+}
+
+.left p,h1{
+    margin: 0px;
+}
+.left h1{
+    font-weight: 300;
+}
+
+.holl{
+    margin: 10px 100px;
+}
+
+.holl span{
+    color: red;
+}
+
+.themain{
+    background: white;
+    display: flex;
+
+}
+
+.firdiv{
+    background: purple;
+    /* width: 20px; */
+    margin: 10px 100px;
+
+}
+
+.formone{
+    background: white;
+    /* margin: 9px 98px; */
+    
+}
+button{
+    background: gold;
+    border: 1px solid black;
+    padding: 12px;
+}
+
+.secimg{
+    height: 100px;
+    
+}
+
+.pot{
+    background: rgb(241, 238, 229);
+}
+.pot button{
+    margin-left: 200px;
+    padding: 10px;
+}
+.lll div{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 0px;
+    /* margin-top: 20px; */
+    /* border: 30px; */
+}
+
+.sss{
+    /* border-radius: 20px solid black; */
+    /* border: 20px; */
+}
+
+.pg{
+    background: gold;
+    padding: 20px 20px 20px 5px;
+
+}
+
+.ban{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin: 20px;
+
+}

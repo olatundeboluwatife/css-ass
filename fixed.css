@@ -1,0 +1,32 @@
+body{
+    /* background: blue; */
+}
+
+
+.yo{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    /* padding: 10px;
+    margin: 20px; */
+    border-radius: 200px;
+}
+ 
+.fo{
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    /* z-index: -30; */
+
+}
+.to{
+    position: fixed;
+    top: 10px;
+    border-radius: 100px;
+}
+
+.so{
+    position: fixed;
+    bottom: 00px;
+    right: 10px;
+}

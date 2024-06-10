@@ -1,0 +1,57 @@
+.naav{
+    /* margin: 100px; */
+    padding: 30px;
+    text-align: center;
+    /* width: 500px; */
+    /* display: flex;
+    flex-direction: row; */
+}
+.theul{
+    list-style: none;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.theul a{
+    color: white;
+    padding: 10px;
+    width: 30px;
+    border: 1px solid black;
+    background: radial-gradient(red, yellow, blue, green);
+    border-radius: 20px;
+}
+
+td{
+    text-align: center;
+    padding: 25px;
+    margin: 20px;
+    color: white;
+    
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.put{
+    background-color: blue;
+}
+
+.midlle{
+    /* background-color: green; */
+    background: radial-gradient(circle, red, yellow, green, blue);
+}
+img{
+    width: 130px;
+}
+span{
+    color: black;
+}

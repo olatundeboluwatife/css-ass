@@ -1,0 +1,60 @@
+.ddd{
+    list-style: none;
+    /* padding: 10px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.ddd a{
+    color: black;
+    margin: 20px;
+    background: greenyellow;
+    padding: 20px;
+
+}
+.vop{
+    background: greenyellow;
+    /* padding: 50px; */
+
+
+}
+.shop{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.vop h1{
+    text-align: center;
+    font-weight: 600px;
+}
+.eat{
+    text-align: center;
+    width: 25%;
+}
+.top{
+    text-align: center;
+    width: 25%;
+    
+}
+.sup{
+    text-align: center;
+    width: 25%;
+}
+
+.top div{
+    /* padding-bottom: 50px; */
+}
+
+i{
+    font-size: 60px;
+    color: black;
+}
+button{
+    background: orange;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
